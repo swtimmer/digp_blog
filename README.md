@@ -1,4 +1,4 @@
-# Data Insights Global Practise MSDN blog
+# Data Insights Global Practice MSDN blog
 
 In this Git repository I will place code that has been used in blog posts that I write for my team's blog at http://blogs.msdn.com/b/data_insights_global_practice/. 
 
