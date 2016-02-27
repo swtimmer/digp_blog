@@ -1,6 +1,6 @@
 # Data Insights Global Practice MSDN blog
 
-In this Git repository I will place code that has been used in blog posts that I write for my team's blog at http://blogs.msdn.com/b/data_insights_global_practice/. 
+In this Git repository I will place code that has been used in blog posts that I write for my team's blog at http://blogs.msdn.com/b/data_insights_global_practice/. My work evolves mostly around implementations that utilize the [Azure Machine Learning studio](https://studio.azureml.net/Home), hence you will find most of my blog posts and code (R or Python) being on that topic. 
 
 ## Current blog posts:
 
@@ -14,3 +14,5 @@ Code: https://github.com/swtimmer/digp_blog/tree/master/Quality%20control%20on%2
 ## Contact me
 If any questions, contact me,  Sander Timmer at sander.timmer@Microsoft.com. 
 
+
+![alt text](http://www.sandertimmer.nl/wp-content/uploads/2010/12/azure-ml.jpg "Azure ML")
