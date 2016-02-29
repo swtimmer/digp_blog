@@ -10,6 +10,8 @@ Code: https://github.com/swtimmer/digp_blog/tree/master/Evaluating%20Machine%20L
 **[Using Azure Machine Learning Notebook for quality control of automated predictive pipelines](http://blogs.msdn.com/b/data_insights_global_practice/archive/2016/01/05/using-azure-machine-learning-notebooks-for-quality-control-of-automated-predictive-pipelines.aspx)**
 Code: https://github.com/swtimmer/digp_blog/tree/master/Quality%20control%20on%20automated%20predictive%20pipelines
 
+**[Using Microsoft Azure Blob Storage from within Python](http://www.sandertimmer.nl/2015/08/using-microsoft-azure-blob-storage-from-within-python/)**
+Code:https://github.com/swtimmer/digp_blog/tree/master/Use%20Microsoft%20Azure%20Blob%20storage%20from%20within%20Python
 
 ## Contact me
 If any questions, contact me,  Sander Timmer at sander.timmer@Microsoft.com. 
